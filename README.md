@@ -16,7 +16,7 @@ PASS_DB=
 TOKEN_SECRET=
 ```
 
-Realizando um registro
+Realizando um registro na rota /api/user/register
 
 ![image](https://user-images.githubusercontent.com/48020987/179631639-21ab5387-907b-425f-9b45-15f0775e733a.png)
 
